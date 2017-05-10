@@ -1,0 +1,2 @@
+module KuMenuPanHelper
+end
